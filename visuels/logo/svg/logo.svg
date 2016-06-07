@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1580px"
+	 height="1400px" viewBox="0 0 1580 1400" enable-background="new 0 0 1580 1400" xml:space="preserve">
+<g id="Calque_1">
+	<path fill="#5A4BE6" d="M474,949.887c-138,0-250-111.929-250-250s112-250,250-250V949.887z"/>
+	<circle fill="#5A4BE6" stroke="#FFFFFF" stroke-width="10" stroke-miterlimit="10" cx="69.359" cy="700.218" r="22.542"/>
+	<circle fill="#5A4BE6" stroke="#FFFFFF" stroke-width="10" stroke-miterlimit="10" cx="569.359" cy="700.218" r="22.542"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M474,450"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M474,186l0-0.19C322.04,305.665,224.492,491.441,224.492,700H224c0,138.071,111.929,250,250,250V186z"/>
+	<g>
+		<path fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M109.203,874.953c-6.481-13.489-12.234-27.392-17.212-41.659c-0.162,0.065-0.325,0.124-0.486,0.193
+			c-11.45,4.89-16.768,18.135-11.878,29.584"/>
+		<path fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M91.991,833.294c11.336-4.538,24.278,0.783,29.099,12.071"/>
+		<path fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M109.212,874.95c0,0-0.006,0.002-0.009,0.003c57.137,118.914,170.687,205.59,305.972,225.301"/>
+		<path fill="none" stroke="#FFFFFF" stroke-width="10" stroke-miterlimit="10" d="M121.09,845.365
+			c-4.821-11.289-17.763-16.609-29.099-12.071"/>
+	</g>
+</g>
+<g id="hover">
+	<g>
+		
+			<circle fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="4,10" cx="879" cy="700" r="654.508"/>
+		
+			<circle fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="4,10" cx="474" cy="700" r="250"/>
+		
+			<circle fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="4,10" cx="474" cy="890.8" r="59.017"/>
+	</g>
+	
+		<circle fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,10" cx="69.359" cy="700.218" r="22.542"/>
+	
+		<circle fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,10" cx="569.359" cy="700.218" r="22.542"/>
+	
+		<circle fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,10" cx="100.359" cy="854.218" r="22.542"/>
+	<path fill="none" stroke="#FFFFFF" stroke-miterlimit="10" stroke-dasharray="4,10" d="M475.5,949.977
+		c-139,0-251.545-112.62-251.545-251.545S336.5,446.887,475.5,446.887V949.977z"/>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="4,10" x1="473" y1="950" x2="473" y2="186"/>
+	
+		<circle fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="4,10" cx="474" cy="1104.8" r="59.017"/>
+	
+		<circle fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="4,10" cx="474" cy="700" r="404.508"/>
+</g>
+</svg>
